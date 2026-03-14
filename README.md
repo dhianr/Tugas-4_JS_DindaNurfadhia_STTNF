@@ -1,5 +1,5 @@
 Tugas 4 - Sistem Peminjaman Transportasi
-Daftar Kendaraan:
+<br> Daftar Kendaraan:
 | NO | JENIS KENDARAAN | TAHUN | 
 |----|-----------------|-------|
 |  1 | Mobil Brio      | 2020  |
